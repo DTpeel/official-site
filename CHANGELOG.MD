@@ -11,3 +11,8 @@
 ### 功能更新 | Features updates
 - 增加了busuanzi页面访问统计 | Added busuanzi.js for pages visit statistics
 - 增加了页面樱花特效（可选）| Added sakura fall effect with javascript (Optional)
+
+## 2022-01-14 13:29:21
+### 页面更新 | Pages upddates
+- 增加了管理员主页 | Added channel admin profile
+    - 克里姆酱
